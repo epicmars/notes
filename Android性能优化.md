@@ -54,4 +54,5 @@ Starting: Intent
 
 - [StartupMode](https://developer.android.com/reference/kotlin/androidx/benchmark/macro/StartupMode)
 - [应用启动时间](https://developer.android.com/topic/performance/vitals/launch-time#cold)
-- [](https://developer.android.com/guide/components/activities/activity-lifecycle#instance-state)
+- [生命周期-实例状态](https://developer.android.com/guide/components/activities/activity-lifecycle#instance-state)
+- [Android 中如何计算 App 的启动时间？](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2016/0105/3830.html)
